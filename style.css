@@ -1,8 +1,8 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-} */
+}
 
 #wrapper{
     height: 100vh;
@@ -37,7 +37,6 @@ h1{
 .card{
     width: 32%;
     position: relative;
-    /* margin-bottom: 20px; */
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 20px  #333;
@@ -69,9 +68,7 @@ h1{
     font-weight: 500;
     color: #fff;
     opacity: 0;
-    /* background-color: red; */
     border-radius: 0 0 10px 10px;
-    /* background: linear-gradient(0deg , rgb(4, 233, 241) 0% , rgba(255, 255, 255)); */
     background-color:  rgba(206, 8, 190, 0.3);
     transition: 1s;
     
@@ -105,18 +102,7 @@ h1{
         width: 65%;
         margin-bottom: 30px;
     }
-
-
-    
 }
 
-#test{
 
-    height: 100px;
-    width: 110px;
-    border-width: 6px;
-    border-style: dotted solid double dashed;
-
-
-}
 
